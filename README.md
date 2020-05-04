@@ -8,8 +8,13 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
-* ["Working Effectively with Unit Tests" book](https://www.goodreads.com/book/show/22605938-working-effectively-with-unit-tests)
+### Enough to be dangerous
+
 * [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+
+### To master, continue with
+
+* ["Working Effectively with Unit Tests" book](https://www.goodreads.com/book/show/22605938-working-effectively-with-unit-tests)
 * [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
 * [What to test and not to test](https://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/)
 * [Seven Testing Sins and How To Avoid Them](https://codurance.com/2019/08/21/seven-testing-sins/)
