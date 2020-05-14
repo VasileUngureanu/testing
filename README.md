@@ -34,6 +34,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Mocking is not practical — Use fakes](https://medium.com/@june.pravin/mocking-is-not-practical-use-fakes-e30cc6eaaf4e)
 * [Android Unit Testing and Test Driven Development](https://www.udemy.com/course/professional-android-unit-testing/)
 * [The Clean Code Talks](https://www.youtube.com/watch?v=aAb7hSCtvGw&list=PLx5t1p9LqYUe_3LrWrrJN5agu5Jcd-3bG)
+* [Automated tests: You won't find it in a book!](https://www.youtube.com/watch?v=PQe8VruXipc)
 
 ## Usage
 
