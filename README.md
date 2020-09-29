@@ -35,6 +35,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Android Unit Testing and Test Driven Development](https://www.udemy.com/course/professional-android-unit-testing/)
 * [The Clean Code Talks](https://www.youtube.com/watch?v=aAb7hSCtvGw&list=PLx5t1p9LqYUe_3LrWrrJN5agu5Jcd-3bG)
 * [Automated tests: You won't find it in a book!](https://www.youtube.com/watch?v=PQe8VruXipc)
+* [How They Test](https://abhivaikar.github.io/howtheytest/#/)
 
 ## Usage
 
